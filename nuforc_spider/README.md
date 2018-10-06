@@ -22,6 +22,6 @@ There are two tricky parts to this spider. The first is that the NUFORC database
 
 The second, and really the reason for making this spider in the first place (this is not the only project to attempt a web scrape of NUFORC) is that dates are handled variably within the fields of the HTML tables.  Many of the earlier date/time entries only had two digits for the year (yy), yet the archive extends from the fifteenth century to now (September 2018). This meant that most (all?) of the reports from, e.g. 1967, appear as 2067 etc.--- welcome to the future!
 
-However, thanks to the curation efforts of NUFORC, the year and month are held as six-digit metadata in the URL for the entries; this vital information is parsed4 and added to each entry.
+However, thanks to the curation efforts of NUFORC, the year and month are held as six-digit metadata in the URL for the entries; this vital information is automaticaly parsed and added to each entry by this spider.
 
 Enjoy, Earthling!
