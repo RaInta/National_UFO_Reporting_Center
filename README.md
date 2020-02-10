@@ -4,7 +4,7 @@ Tired of your fellow humans being probed by aliens? It’s time to probe back! W
 
 ---
 
-This is the analysis associated with a Pandas tutorial article (to be published soon!). This covers the [extraction](./nuforc_spider/README.md) and [analysis of data](ufo_analysis.ipynb) from the National UFO Reporting Center archives in detail.
+This is the analysis associated with an accompanying [Pandas tutorial article](https://www.accelebrate.com/blog/pandas-monium-analyzing-data-with-the-python-pandas-package). This covers the [extraction](./nuforc_spider/README.md) and [analysis of data](ufo_analysis.ipynb) from the National UFO Reporting Center archives in detail.
 
 
 Let the analysis begin!
